@@ -3,4 +3,4 @@
 hi
 you found me
 
-![Book Logo](/me/asset/icegif-1026.gif)
+<img src="me/asset/icegif-1026.gif" width="100" height="100">
