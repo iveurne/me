@@ -1,5 +1,5 @@
 # Setup
-title: arth
+title:
 url: https://iveurne.github.io/me/
 paginate: 1
 baseurl: ""
@@ -23,13 +23,3 @@ exclude:
 sass:
   sass_dir: _sass
   style: :compressed
-
-# Options
-
-# Navbar page list
-nav:
-  - title: Blog
-    url: /archive
-
-  - title: About
-    url: /about
