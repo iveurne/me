@@ -1,9 +1,3 @@
-# Setup
-title:
-url: https://iveurne.github.io/me/
-paginate: 1
-baseurl: ""
-permalink: :3
 
 # Gems
 plugins:
